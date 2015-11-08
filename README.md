@@ -1,2 +1,4 @@
 # Repartizari-Studenti
 Un sistem software ce automatizeaza procesul de repartizare in camine in functie de medie. De asemenea de atribuire de note unui student, respectiv calularea mediei.
+
+Facultățile din cadrul Universității „Politehnica” din Timișoara oferă burse și locuri de cazare  celor mai buni dintre studenți. Pentru aceasta, pe parcursul semestrului profesorii introduc  notele studenților într­o aplicație software. La sfârșitul semestrului, secretariatul fiecărei facultăți  calculează media fiecărui student urmând ca, în funcție de aceasta, să decidă care dintre  studenți primesc bursă. În plus, secretariatele facultăților trimit informațiile de identificare ale  studenților care solicită cazare precum și media acestora către administrația căminelor care, în  funcție de medie, îi repartizează automat într­un cămin.  
